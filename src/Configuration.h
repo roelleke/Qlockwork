@@ -44,12 +44,12 @@
 #define SHOW_MODE_WEEKDAY                       // Show weekday.
 #define SHOW_MODE_DATE                          // Show date.
 #define SHOW_MODE_MOONPHASE                     // Show moonphase.
-//#define SHOW_MODE_SUNRISE_SUNSET              // Show sunrise and sunset times.
+#define SHOW_MODE_SUNRISE_SUNSET              // Show sunrise and sunset times.
 #define SHOW_MODE_TEST                          // Show tests.
 
 #define WEATHER                                 // Show weather data.
-#define LATITUDE "56.2345678"                   // Set the location for which you want the current weather data displayed
-#define LONGITUDE "12.123456789"                // as latitude and longitude and the time zone.
+#define LATITUDE "51.975285"                   // Set the location for which you want the current weather data displayed
+#define LONGITUDE "7.589481"                // as latitude and longitude and the time zone.
 #define TIMEZONE "Europe/Berlin"                // Check out https://open-meteo.com/ 
 
 //*****************************************************************************
